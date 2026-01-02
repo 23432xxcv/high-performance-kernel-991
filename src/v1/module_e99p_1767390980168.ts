@@ -1,0 +1,1 @@
+const util_e99p = (d: any) => d;
