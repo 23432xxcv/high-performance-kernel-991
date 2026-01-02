@@ -1,0 +1,1 @@
+const service_ywtx = <T>(args: T): T => { return args; };
